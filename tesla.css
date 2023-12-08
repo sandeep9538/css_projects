@@ -1,0 +1,70 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.bgvideo{
+    height: 100vh;
+    width: 100%;
+    object-fit: cover;
+    position: fixed;
+    z-index: -1;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    color:white;
+}
+.links a{
+    color:white;
+    text-decoration: none;
+    padding: 0px 10px;
+    font-size: 20px;
+}
+.options a{
+    color:white;
+    text-decoration: none;
+    padding: 0px 10px;
+    font-size: 20px;
+}
+.title{
+    color: aliceblue;
+    text-align: center;
+    transform: translateY(40px);
+    font-size: 20px;
+}
+ .option{
+    
+    text-align: center;
+    transform: translateY(200px);
+    margin-left: 50px;
+    
+}
+#button1{
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin: 20px;
+    background-color: black;
+    color: white;
+}
+#button2{
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin: 20px;
+    background-color: black;
+    color: white;
+} 
+.tandc{
+    color: white;
+    transform: translateY(200px);
+    text-align: center;
+
+}
+.tandc a{
+    color: white;
+}
+
